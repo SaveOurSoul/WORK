@@ -41,6 +41,3 @@ loop4()
 loop3()
 loop2()
 loop1()
-
-import turtle
-turtle.forward(15)
